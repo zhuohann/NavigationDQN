@@ -24,7 +24,7 @@ pip install torch
 
 ## Usage
 To run the pre-trained agent, you can use "model.pt", which includes the model weights.
-As for training the model, you can use "Navigation.ipynb"
+As for training the model, run "Navigation.ipynb"
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
