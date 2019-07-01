@@ -18,8 +18,7 @@ The task is episodic, and in order to solve the environment, the agent must get 
 Use the package manager [pip](https://pip.pypa.io/en/stable/) to install required package.
 
 ```bash
-pip install matplotlib
-pip install torch
+pip install -r requirements.txt
 ```
 
 ## Usage
